@@ -32,7 +32,7 @@ function nextQuestion(answer) {
             <button class="yes" onclick="acceptProposal()">Yes 😍</button>
             <button class="no" onmouseover="moveButton()">No 🙃</button>
             <div class="cat-container">
-                <img id="catMeme" src="https://i.imgur.com/7XnGx92.jpeg" alt="Happy Cat">
+                <img id="catMeme" src="https://tenor.com/udu0qpEm09W.gif" alt="Happy Cat">
             </div>
         `;
         startHeartsAndBunnies();
