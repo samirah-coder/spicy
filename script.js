@@ -7,10 +7,10 @@ let questions = [
 ];
 
 let memes = [
-    "https://i.imgur.com/JVjdA0h.jpeg",
-    "https://i.imgur.com/fjM8DqR.jpeg",
-    "https://i.imgur.com/7XnGx92.jpeg",
-    "https://i.imgur.com/9FnNoxT.jpeg"
+    "https://media.gifdb.com/cute-bf-gf-couple-hug-2oyicxe5ac4ts3tn.gif",
+    "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk0a2c0NGFhb2lhd3VnNXllaG5sNTJ4M2piNGM3ZHVzOWJwaXNrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DdfmUJ1IpAtws/giphy.gif",
+    "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ1ZW56MndnNzgxbHc3bmUxeXVsc3NyaWQxN3MwamIxaDNyaG93eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ik7yZ0whfgeqI/giphy.gif",
+    "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2R5OWttaGc5YzQ2a2Frazk1bXJvY3dicDFrMGh1cjNwb2RqZGxrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gMA8trxqSKjGo/giphy.gif"
 ];
 
 let currentQuestion = 0;
