@@ -8,6 +8,7 @@ let questions = [
 
 let memes = [
     "https://media.gifdb.com/cute-bf-gf-couple-hug-2oyicxe5ac4ts3tn.gif",
+    "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Ayb2hiYWluaDZxZDFndDk5a2JhbmdtcXN6cHE0bDQzcG9oanQ2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZycRxmQOjHdC/giphy.gif",
     "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk0a2c0NGFhb2lhd3VnNXllaG5sNTJ4M2piNGM3ZHVzOWJwaXNrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DdfmUJ1IpAtws/giphy.gif",
     "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ1ZW56MndnNzgxbHc3bmUxeXVsc3NyaWQxN3MwamIxaDNyaG93eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ik7yZ0whfgeqI/giphy.gif",
     "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2R5OWttaGc5YzQ2a2Frazk1bXJvY3dicDFrMGh1cjNwb2RqZGxrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gMA8trxqSKjGo/giphy.gif"
@@ -32,7 +33,7 @@ function nextQuestion(answer) {
             <button class="yes" onclick="acceptProposal()">Yes 😍</button>
             <button class="no" onmouseover="moveButton()">No 🙃</button>
             <div class="cat-container">
-                <img id="catMeme" src="https://tenor.com/udu0qpEm09W.gif" alt="Happy Cat">
+                <img id="catMeme" src="https://pin.it/2yRQEDlgA" alt="Happy Cat">
             </div>
         `;
         startHeartsAndBunnies();
@@ -40,7 +41,7 @@ function nextQuestion(answer) {
 }
 
 function acceptProposal() {
-    document.body.innerHTML = "<h1 style='color:#fff; font-size:3rem;'>Yay! 🎉 You said YES! 💕🐱</h1>";
+    document.body.innerHTML = "<h1 style='color:#fff; font-size:3rem;'>Yayyyyyyyyy! 🎉 You said YES! 💕🐱</h1>";
     startHeartsAndBunnies();
 }
 
